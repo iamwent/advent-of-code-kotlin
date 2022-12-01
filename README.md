@@ -1,4 +1,5 @@
 # advent-of-code-kotlin
+![Testing](https://github.com/iamwent/advent-of-code-kotlin/actions/workflows/ci.yml/badge.svg)
 
 Welcome to the Advent of Code[^aoc] Kotlin project created by [iamwent][github] using the [Advent of Code Kotlin Template][template] delivered by JetBrains.
 
