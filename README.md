@@ -12,6 +12,14 @@ If you're stuck with Kotlin-specific questions or anything related to this templ
 - Template [issue tracker][issues]
 
 
+| Solutions                                                                         |
+|-----------------------------------------------------------------------------------|
+| [Day 1: Calorie Counting](src/main/kotlin/day01/CalorieCounting.kt)               |
+| [Day 2: Rock Paper Scissors](src/main/kotlin/day02/RockPaperScissors.kt)          |
+| [Day 3: Rucksack Reorganization](src/main/kotlin/day03/RucksackReorganization.kt) |
+| [Day 4: Camp Cleanup](src/main/kotlin/day04/CampCleanup.kt)                       |
+
+
 [^aoc]:
     [Advent of Code][aoc] – An annual event of Christmas-oriented programming challenges started December 2015.
     Every year since then, beginning on the first day of December, a programming puzzle is published every day for twenty-five days.
