@@ -1,6 +1,7 @@
 import day01.CalorieCounting
 import day02.RockPaperScissors
 import day03.RucksackReorganization
+import day04.CampCleanup
 
 fun main() {
     println("--- Day 1: Calorie Counting ---")
@@ -18,4 +19,9 @@ fun main() {
     val rr = RucksackReorganization("Day03")
     println("What is the sum of the priorities of those item types? ${rr.part1()}")
     println("What is the sum of the priorities of those item types? ${rr.part2()}")
+
+    println("\n--- Day 4: Camp Cleanup ---\n")
+    val cc = CampCleanup("Day04")
+    println("In how many assignment pairs does one range fully contain the other? ${cc.part1()}")
+    println("In how many assignment pairs do the ranges overlap? ${cc.part2()}")
 }
