@@ -18,6 +18,7 @@ If you're stuck with Kotlin-specific questions or anything related to this templ
 | [Day 2: Rock Paper Scissors](src/main/kotlin/day02/RockPaperScissors.kt)          |
 | [Day 3: Rucksack Reorganization](src/main/kotlin/day03/RucksackReorganization.kt) |
 | [Day 4: Camp Cleanup](src/main/kotlin/day04/CampCleanup.kt)                       |
+| [Day 5: Supply Stacks](src/main/kotlin/day05/SupplyStacks.kt)                     |
 
 
 [^aoc]:

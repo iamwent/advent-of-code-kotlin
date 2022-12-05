@@ -2,6 +2,7 @@ import day01.CalorieCounting
 import day02.RockPaperScissors
 import day03.RucksackReorganization
 import day04.CampCleanup
+import day05.SupplyStacks
 
 fun main() {
     println("--- Day 1: Calorie Counting ---")
@@ -24,4 +25,9 @@ fun main() {
     val cc = CampCleanup("Day04")
     println("In how many assignment pairs does one range fully contain the other? ${cc.part1()}")
     println("In how many assignment pairs do the ranges overlap? ${cc.part2()}")
+
+    println("\n--- Day 5: Supply Stacks ---\n")
+    val ss = SupplyStacks("Day05")
+    println("After the rearrangement procedure completes, what crate ends up on top of each stack? ${ss.part1()}")
+    println("After the rearrangement procedure completes, what crate ends up on top of each stack? ${ss.part2()}")
 }
