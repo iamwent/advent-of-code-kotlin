@@ -19,6 +19,7 @@ If you're stuck with Kotlin-specific questions or anything related to this templ
 | [Day 3: Rucksack Reorganization](src/main/kotlin/day03/RucksackReorganization.kt) |
 | [Day 4: Camp Cleanup](src/main/kotlin/day04/CampCleanup.kt)                       |
 | [Day 5: Supply Stacks](src/main/kotlin/day05/SupplyStacks.kt)                     |
+| [Day 6: Tuning Trouble](src/main/kotlin/day06/TuningTrouble.kt)                   |
 
 
 [^aoc]:
