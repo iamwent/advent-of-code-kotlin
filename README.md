@@ -20,6 +20,8 @@ If you're stuck with Kotlin-specific questions or anything related to this templ
 | [Day 4: Camp Cleanup](src/main/kotlin/day04/CampCleanup.kt)                       |
 | [Day 5: Supply Stacks](src/main/kotlin/day05/SupplyStacks.kt)                     |
 | [Day 6: Tuning Trouble](src/main/kotlin/day06/TuningTrouble.kt)                   |
+| [Day 7: No Space Left On Device](src/main/kotlin/day07/NoSpaceLeftOnDevice.kt)    |
+| [Day 8: Treetop Tree House](src/main/kotlin/day08/TreetopTreeHouse.kt)            |
 
 
 [^aoc]:

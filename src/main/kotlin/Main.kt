@@ -5,6 +5,7 @@ import day04.CampCleanup
 import day05.SupplyStacks
 import day06.TuningTrouble
 import day07.NoSpaceLeftOnDevice
+import day08.TreetopTreeHouse
 
 fun main() {
     println("--- Day 1: Calorie Counting ---")
@@ -42,4 +43,9 @@ fun main() {
     val nslod = NoSpaceLeftOnDevice("Day07")
     println("What is the sum of the total sizes of those directories? ${nslod.part1()}")
     println("What is the total size of that directory? ${nslod.part2()}")
+
+    println("\nDay 8: Treetop Tree House")
+    val tth = TreetopTreeHouse("Day08")
+    println("How many trees are visible from outside the grid? ${tth.part1()}")
+    println("What is the highest scenic score possible for any tree? ${tth.part2()}")
 }
