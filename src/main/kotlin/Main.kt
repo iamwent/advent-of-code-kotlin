@@ -4,6 +4,7 @@ import day03.RucksackReorganization
 import day04.CampCleanup
 import day05.SupplyStacks
 import day06.TuningTrouble
+import day07.NoSpaceLeftOnDevice
 
 fun main() {
     println("--- Day 1: Calorie Counting ---")
@@ -36,4 +37,9 @@ fun main() {
     val tt = TuningTrouble("Day06")
     println("How many characters need to be processed before the first start-of-packet marker is detected? ${tt.part1()}")
     println("How many characters need to be processed before the first start-of-packet marker is detected? ${tt.part2()}")
+
+    println("\nDay 7: No Space Left On Device")
+    val nslod = NoSpaceLeftOnDevice("Day07")
+    println("What is the sum of the total sizes of those directories? ${nslod.part1()}")
+    println("What is the total size of that directory? ${nslod.part2()}")
 }
